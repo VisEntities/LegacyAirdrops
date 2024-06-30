@@ -4,7 +4,7 @@ using UnityEngine;
 namespace Oxide.Plugins
 {
     [Info("Legacy Airdrops", "VisEntities", "1.0.0")]
-    [Description(" ")]
+    [Description("Brings back legacy airdrops where cargo planes drop multiple airdrops instead of just one.")]
     public class LegacyAirdrops : RustPlugin
     {
         #region Fields
